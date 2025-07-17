@@ -17,7 +17,5 @@
 
 
 ### 📋 计划中
-- **BTWY_PixelCanvaLayer**  
-  基于`TileMapLayer`开发的程序化像素画布节点。
-
+- 暂无
 
